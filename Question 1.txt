@@ -1,0 +1,2 @@
+1: Cache it using custom cache management or redis
+2: Use database built in caching mechnism to prevent paging faults

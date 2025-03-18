@@ -1,0 +1,9 @@
+Q1:
+I will use Firebase cloud messaging for mobile devices push notification. and sockets for reall time when user is using app
+
+
+
+Q2: 
+a: cluster for parallelism
+b: redis for caching,
+c task scheduler like Message ques and bull mq with socket to notify when processing completes
